@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/melissa-s-793726237/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin  />
 </a>  
+<br/>
+<a class="header-badge" target="_blank" href="https://www.codewars.com/users/DataMist">
+<img alt="Codewars badge" src="https://www.codewars.com/users/DataMist/badges/micro">
+</a>
 </div>  
 <br/>
 
