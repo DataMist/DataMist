@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </a>  
 <br/>
 <a class="header-badge" target="_blank" href="https://www.codewars.com/users/DataMist">
-<img alt="Codewars badge" src="https://www.codewars.com/users/DataMist/badges/micro">
+<img alt="Codewars badge" src="https://www.codewars.com/users/DataMist/badges/small">
 </a>
 </div>  
 <br/>
