@@ -27,3 +27,8 @@ Here are some ideas to get you started:
 </a>  
 </div>  
 <br/>
+
+## Github Stats  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ibrahimgurhandev&show_icons=true&locale=en" align="center" width="40%"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DataMist)
