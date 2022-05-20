@@ -30,5 +30,4 @@ Here are some ideas to get you started:
 
 ## Github Stats  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DataMist" align="center" width="40%"/>
-
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DataMist&show_icons=true&theme=tokyonight" align="center" width="40%"/>
