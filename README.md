@@ -6,7 +6,7 @@
 
 I am a Software Engineer based in Austin, TX. I am proficient in Frontend Development and expanding my knowledge of Backend Developement. I have extensive knowledge in HTML, CSS, and Javascript. I have also completed the Google Data Analyst Certification. As a software engineer, I bring functional ideas to life. 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...Node.Js
@@ -86,4 +86,6 @@ Here are some ideas to get you started:
 ## Github Stats  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DataMist&show_icons=true&theme=tokyonight" align="center" width="40%"/>
-  
+<br/>
+<hr>
+<div align="center"><<img src="https://github-readme-streak-stats.herokuapp.com/?user=datamist"/></div>
