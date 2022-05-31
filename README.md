@@ -88,4 +88,4 @@ I am a Software Engineer based in Austin, TX. I am proficient in Frontend Develo
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DataMist&show_icons=true&theme=tokyonight" align="center" width="40%"/>
 <br/>
 <hr>
-<div align="center"><<img src="https://github-readme-streak-stats.herokuapp.com/?user=datamist"/></div>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=datamist"/></div>
