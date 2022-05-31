@@ -1,3 +1,11 @@
+<p align="center">
+  
+![girlcodes](https://user-images.githubusercontent.com/86136005/171281381-930da499-b4d7-44ef-8fb9-4a40a993baa7.gif)
+  
+</p>
+
+
+
 ### Hi there 👋, My name is Melissa
 
 I am a Software Engineer based in Austin, TX. I am proficient in Frontend Development and expanding my knowledge of Backend Developement. I have extensive knowledge in HTML, CSS, and Javascript. I have also completed the Google Data Analyst Certification. As a software engineer, I bring functional ideas to life. 
