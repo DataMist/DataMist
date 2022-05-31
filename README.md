@@ -1,8 +1,4 @@
-<p align="center">
-  
-![girlcodes](https://user-images.githubusercontent.com/86136005/171281381-930da499-b4d7-44ef-8fb9-4a40a993baa7.gif)
-  
-</p>
+![](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 
 
